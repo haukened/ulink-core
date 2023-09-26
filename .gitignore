@@ -22,6 +22,10 @@ go.work
 
 # vscode things
 .vscode
+__debug*
 
 # the binary
 ulink
+
+# generated files
+dist
