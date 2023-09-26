@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# vscode things
+.vscode
+
+# the binary
+ulink
